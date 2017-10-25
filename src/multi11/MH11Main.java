@@ -1,9 +1,5 @@
 package multi11;
 
-import multi08.Bandeja;
-import multi08.Cliente;
-import multi08.Pastelero;
-
 public class MH11Main {
 
     public static void main(String[] args) {
